@@ -116,6 +116,10 @@ ol {
     text-decoration-line: underline;
 }
 
+.contacts-link-fix {
+    text-decoration: none;
+}
+
 .contacts-item {
     font-size: 12px;
     margin-top: 0;
@@ -150,6 +154,16 @@ ol {
     font-size: 12px;
     font-weight: 400;
     line-height: 16px;
+}
+
+.role-duties {
+    font-weight: 700;
+}
+
+.duties-fix {
+    position: relative;
+    left: -20px;
+    font-weight: 700;
 }
 
 /* main content */
